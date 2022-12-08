@@ -10,7 +10,6 @@ The dataset includes attributes such as disaster group, disaster type, disaster 
 
 ## EDA Goals
 Looking at the attributes above and the data, I formulate the following questions:
-
-Which country is most affected by disasters?
-What type of disaster occurs most often?
-In VietNam, are the central provinces suffering the most natural disasters? Which province have the most affected?
+- Which country is most affected by disasters?
+- What type of disaster occurs most often?
+- In VietNam, are the central provinces suffering the most natural disasters? Which province have the most affected?
